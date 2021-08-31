@@ -11,7 +11,7 @@ I've made [plenty of esoteric programming languages](https://esolangs.org/wiki/u
 
 I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is designed for utility and fun around Baba Is You.
 
-You can reach out to me via Discord @RocketRace#0798. My pronouns are `she/her`.
+You can reach out to me via Discord `@RocketRace#0798`. My pronouns are `she/her`.
 
 <!--
 **RocketRace/RocketRace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
