@@ -9,6 +9,8 @@ I've made [plenty of esoteric programming languages](https://esolangs.org/wiki/u
 * [5D Brainf*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel)
 * [Babalang](https://esolangs.org/wiki/Babalang)
 
+I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is designed for utility and fun around Baba Is You.
+
 You can reach out to me via Discord @RocketRace#0798. My pronouns are `she/her`.
 
 <!--
