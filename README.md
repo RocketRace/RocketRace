@@ -12,7 +12,7 @@ I've made [plenty of esoteric programming languages](https://esolangs.org/wiki/u
 
 * [5D Brainf*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) is a mashup of the popular esolang and the game [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
 
-* [Babalang](https://esolangs.org/wiki/Babalang) is a language focused around [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) and its rule system.
+* [Babalang](https://esolangs.org/wiki/Babalang) is a language focused around [Baba Is You](https://hempuli.com/baba/) and its rule system.
 
 ## Discord Bots
 
