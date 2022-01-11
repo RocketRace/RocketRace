@@ -14,11 +14,7 @@ I've made [plenty of esoteric programming languages](https://esolangs.org/wiki/u
 
 * [Babalang](https://esolangs.org/wiki/Babalang) is a language focused around [Baba Is You](https://hempuli.com/baba/) and its rule system.
 
-## Discord Bots
-
-I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is a utility / fun bot for use related to Baba Is You.
-
-## Niche, Novel Utilities
+## Novel Oddities
 
 One of my passions is creating novel tools, regardless of their pragmatic value. This often entails taking a feature in some technology to its logical extreme, or implementing unlikely conceptual mixtures. Some examples of this include:
 
@@ -28,3 +24,6 @@ One of my passions is creating novel tools, regardless of their pragmatic value.
 
 * [unibitmap](https://github.com/RocketRace/unibitmap), a command line utility to encode image data into "ASCII art" text files which *also* happen to be executable Python (evaluating to the original image, of course).
 
+## Discord Bots
+
+I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is a utility / fun bot for use related to Baba Is You.
