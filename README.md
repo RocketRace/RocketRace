@@ -2,7 +2,7 @@
 
 I'm [Olivia (RocketRace)](https://en.pronouns.page/@RocketRace) — a student studying embedded systems in Finland. I'm a big fan of creating novel (often silly) programming projects, and an even bigger fan of making something visual with them! **If you care to support my projects (covering hosting and other essential payments), I would be quite thankful!** [At the moment, I accept donations through LiberaPay.](https://liberapay.com/RocketRace/)
 
-My languages: Python, Rust, Typescript, Javascript, Scala, C, APL, BQN. I pick up languages pretty quickly -- I've also made some of my own!
+My languages: Python, Rust, Typescript, Javascript, Scala, C, APL (Dyalog), BQN. I pick up languages pretty quickly -- I've also made some of my own!
 
 ## Esolangs
 
