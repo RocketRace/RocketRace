@@ -24,6 +24,8 @@ One of my passions is creating novel tools, regardless of their pragmatic value.
 
 * [unibitmap](https://github.com/RocketRace/unibitmap), a command line utility to encode image data into "ASCII art" text files which *also* happen to be executable Python (evaluating to the original image, of course).
 
+* [custom-literals](https://github.com/RocketRace/custom-literals), a pure-Python implementation of C++'s user-defined literals (UDLs)
+
 ## Discord Bots
 
 I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is a utility / fun bot for use related to Baba Is You.
