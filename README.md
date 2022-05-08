@@ -1,6 +1,6 @@
 # Hey all! ✨
 
-I'm Olivia (screen name RocketRace) — a student studying embedded systems in Finland. I'm a big fan of creating novel (silly and often impractical) programming projects! **If you care to support my projects (covering hosting and other essential payments), I would be quite thankful!** [At the moment, I accept donations through LiberaPay.](https://liberapay.com/RocketRace/)
+I'm Olivia (screen name RocketRace) — a student studying embedded systems. I'm a big fan of creating novel (silly and often impractical) programming projects! **If you care to support my projects (covering hosting and other essential payments), I would be quite thankful!** [At the moment, I accept donations through LiberaPay.](https://liberapay.com/RocketRace/)
 
 My languages: Python, Rust, Typescript, Javascript, Scala, C, APL (Dyalog), BQN. I pick up languages pretty quickly -- I've also made some of my own!
 
