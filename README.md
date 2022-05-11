@@ -1,30 +1,17 @@
 # Hey all! ✨
 
-I'm Olivia (screen name RocketRace) — a student studying embedded systems. I'm a big fan of creating novel (silly and often impractical) programming projects! **If you care to support my projects (covering hosting and other essential payments), I would be quite thankful!** [At the moment, I accept donations through LiberaPay.](https://liberapay.com/RocketRace/)
+I'm Olivia (or RocketRace), a student studying embedded systems development. In my free time, I embrace esoteric software. A lucid idea, an insightful implementation, an artistic display... value in software development is not simply a matter of pragmatism! For me, this often involves taking a simple idea or a technological feature to its logical extreme, mixing unlikely concepts together:
 
-My languages: Python, Rust, Typescript, Javascript, Scala, Kotlin, C, APL (Dyalog), BQN. I pick up languages pretty quickly -- I've also made some of my own!
+| Link | Project |
+|:----:|:--------|
+| [BaDSV](https://github.com/RocketRace/badsv) | A family of unpredictable CSV-like file formats |
+| [easy_z3](https://github.com/RocketRace/easy_z3) | A lightweight Python frontend to the Z3 constraint solver providing an "intuitive" interface |
+| [unibitmap](https://github.com/RocketRace/unibitmap) | A converter between images and executable Python source code made of Unicode art |
+| [custom-literals](https://github.com/RocketRace/custom-literals) | A pure-Python implementation of C++'s user-defined literals (UDLs) |
+| [SetVer](https://github.com/RocketRace/setver) | A radical new versioning scheme based on set theory |
 
-## Novel Oddities
+I've also [designed many esoteric programming languages](esolangs.org/wiki/User:RocketRace), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). 
 
-One of my passions is creating novel tools, regardless of their pragmatic value. This often entails taking a feature in some technology to its logical extreme, or implementing unlikely conceptual mixtures. Some examples of this include:
+I can program in Python, Rust, Typescript, Javascript, Scala, Kotlin, C, APL (Dyalog), BQN. More coming soon!
 
-* [BaDSV](https://github.com/RocketRace/badsv), a family of file formats similar to CSV but centered around randomness
-* [easy_z3](https://github.com/RocketRace/easy_z3), a lightweight frontend to the Z3 constraint solver implemented in Python metaclasses and custom namespaces to provide a naturalistic interface
-* [unibitmap](https://github.com/RocketRace/unibitmap), a command line utility to encode image data into "ASCII art" text files which *also* happen to be executable Python (evaluating to the original image, of course).
-* [custom-literals](https://github.com/RocketRace/custom-literals), a pure-Python implementation of C++'s user-defined literals (UDLs)
-* [SetVer](https://github.com/RocketRace/setver), a new versioning scheme based entirely around set theory (currently at version `{{}}`).
-
-## Esolangs
-
-I've designed [plenty of esoteric programming languages](https://esolangs.org/wiki/user:RocketRace). (I've even implemented a few of them, haha.) Here's a sample:
-
-* [Zirconium](https://esolangs.org/wiki/Zirconium) is a two-dimensional language centered around managing a drone network.
-
-* [5D Brainf*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) is a mashup of the popular esolang and the game [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
-
-* [Babalang](https://esolangs.org/wiki/Babalang) is a language focused around [Baba Is You](https://hempuli.com/baba/) and its rule system.
-
-
-## Discord Bots
-
-I also make discord bots! [ROBOT IS YOU](https://github.com/RocketRace/robot-is-you) is a utility / fun bot for use related to Baba Is You.
+[Thank you for supporting my projects!](https://liberapay.com/RocketRace/)
