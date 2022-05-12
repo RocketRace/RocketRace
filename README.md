@@ -14,4 +14,4 @@ I've also [designed many esoteric programming languages](esolangs.org/wiki/User:
 
 I can program in Python, Rust, Typescript, Javascript, Scala, Kotlin, C, APL (Dyalog), BQN. More coming soon!
 
-I'm RocketRace#0798 on Discord - [Thank you for supporting my projects! I am very grateful!](https://liberapay.com/RocketRace/)
+I'm `RocketRace#0798` on Discord — [Thank you for supporting my projects! I am very grateful!](https://liberapay.com/RocketRace/)
