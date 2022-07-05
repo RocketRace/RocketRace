@@ -12,6 +12,6 @@ I'm Olivia (or RocketRace), a student studying embedded systems development. In 
 
 I've also [designed many esoteric programming languages](esolangs.org/wiki/User:RocketRace), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). My miscellaneous projects include [Discord bots](https://github.com/RocketRace/robot-is-you).
 
-I can program in Python, Rust, Typescript, Javascript, Scala, Kotlin, C, APL (Dyalog), BQN. More coming soon!
+I program in Python, Rust, Typescript, Javascript, Scala, Kotlin, Elm, C, APL (Dyalog). More coming soon!
 
 I'm `RocketRace#0798` on Discord — [Thank you for supporting my projects! I am very grateful!](https://liberapay.com/RocketRace/)
