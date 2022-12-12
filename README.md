@@ -1,6 +1,6 @@
 # Hey all! ✨
 
-I'm Olivia (or RocketRace), a student studying embedded systems development. In my free time, I embrace esoteric software. A lucid idea, an insightful implementation, an artistic display... value in software development is not simply a matter of pragmatism! For me, this often involves taking a simple idea or a technological feature to its logical extreme, mixing unlikely concepts together:
+I'm Olivia (or RocketRace), a student studying automated systems development. In my free time, I embrace esoteric software. A lucid idea, an insightful implementation, an artistic display... value in software development is not simply a matter of pragmatism! For me, this often involves taking a simple idea or a technological feature to its logical extreme, mixing unlikely concepts together:
 
 | Link | Project |
 |:----:|:--------|
