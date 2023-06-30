@@ -6,7 +6,7 @@ I'm Olivia (or RocketRace), a student studying automated systems development. In
 |:----:|:--------|
 | [unibitmap](https://github.com/RocketRace/unibitmap) | Cyclic conversions between colored images and executable ASCII+ art |
 | [BaDSV](https://github.com/RocketRace/badsv) | A family of nondeterministic CSV-like file formats exploiting invalid byte sequences in UTF-8 (et. al) |
-| [custom-literals](https://github.com/RocketRace/custom-literals) | A pure-Python implementation of C++'s user-defined literals (UDLs) enabling code like `"foo".u` |
+| [custom-literals](https://github.com/RocketRace/custom-literals) | A pure-Python implementation of C++'s user-defined literals (UDLs) enabling code like `"foo".u` in your Python scripts |
 | [SetVer](https://github.com/RocketRace/setver) | Setaceous Versioning, a radical new versioning scheme based on set theory |
 | [easy_z3](https://github.com/RocketRace/easy_z3) | A declarative interface for the Z3 constraint solver (ab)using Python's metaclasses |
 
