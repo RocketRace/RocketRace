@@ -10,7 +10,7 @@ I'm Olivia (or RocketRace), a student studying automated systems development. In
 | [SetVer](https://github.com/RocketRace/setver) | Setaceous Versioning, a radical new versioning scheme based on set theory |
 | [easy_z3](https://github.com/RocketRace/easy_z3) | A declarative interface for the Z3 constraint solver (ab)using Python's metaclasses |
 
-I've also [designed many esoteric programming languages](esolangs.org/wiki/User:RocketRace), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). Other major projects of mine include [robot-is-you](https://github.com/RocketRace/robot-is-you), a Discord bot.
+I've also [designed many esoteric programming languages](esolangs.org/wiki/User:RocketRace), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). Other major projects of mine include various Discord bots such as [robot-is-you](https://github.com/RocketRace/robot-is-you), also based around Baba Is You.
 
 Given my experience in programming language design and implementations, I'm also a polyglot! My languages include (in order of familiarity) Python, Rust, Typescript/Javascript (including React), Scala, Elm, APL (Dyalog), Kotlin, C, C++. I'm also interested in using Haskell, Elixir, Swift, or BQN in future projects.
 
