@@ -25,4 +25,5 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_stargazers: yes
           plugin_stargazers_days: 0
+          plugin_stargazers_charts_type: graph
           
