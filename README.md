@@ -11,6 +11,7 @@ I'm Olivia (or RocketRace), a Finnish student of computer sciences. In my free t
 | [SetVer](https://github.com/RocketRace/setver) | Setaceous Versioning, a radical new versioning scheme based on set theory |
 | [easy_z3](https://github.com/RocketRace/easy_z3) | A declarative interface for the Z3 constraint solver (ab)using Python's metaclasses |
 | [hoopy](https://github.com/RocketRace/hoopy) | Implementing custom operators and Haskell syntax inside Python |
+| [heckorator](https://github.com/RocketRace/heckorator) | Making Python's decorators *massively* more readable ;) |
 
 I've also [designed many esoteric programming languages](esolangs.org/wiki/User:RocketRace), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). Other major projects of mine include various Discord bots such as [robot-is-you](https://github.com/RocketRace/robot-is-you), also based around Baba Is You.
 
