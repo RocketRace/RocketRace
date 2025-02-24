@@ -1,6 +1,6 @@
 # Hey all! ✨
 
-I'm Olivia (or RocketRace), a Finnish student of computer sciences. In my free time, I dive head-first into esoteric software. I believe that programming can be a form of artistic expression which brings out the untapped potential in "unconventional" code. I strive for my projects to raise questions not asked before, or to cross the boundary of what is considered "realistic". Below are a few of my ventures!
+I’m Olivia. I’m an artist and programmer creating in computational spaces. I study human-computer interactions and have a particular interest in programming language design. I seek through my projects to find untapped potentials within unconventional code, to raise novel questions about the nature of computation, and to confidently cross the boundary of pragmatism. Below are a few of my ventures!
 
 | Link | Project |
 |:----:|:--------|
